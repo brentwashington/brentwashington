@@ -17,9 +17,9 @@
 
 ### :man_technologist: About Me
 
-I am a Front-End Developer from Texas. 
-- 🕑 In my free time, I like to indulge in my creative hobbies, make video games, and further my knowledge on front-end and back-end development.
-- 📫 How to connect with me: [![Linkedin Badge](https://img.shields.io/badge/Brent&nbsp;Washington-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brent-washington/)
+- 👋 Hi, I’m Brent, a Front-End Developer based in Texas. I like to build clean, responsive, and user-focused web experiences that blend performance with great design.
+- 🕑 In my free time, I love experimenting with creative projects — from building small video games to exploring new front-end and back-end technologies that sharpen my craft.
+- 📫 My LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/Brent&nbsp;Washington-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brent-washington/)
 
 ### 🧰 Languages & Tools
 <div>
